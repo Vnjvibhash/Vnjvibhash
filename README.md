@@ -5,6 +5,8 @@
 - 📫 How to reach me via mail vnjvibhash@gmail.com
 - 🤳🏻 How to reach me via WA https://wa.me/917986635348
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vnjvibhash&theme=radical)
+
 <!---
 Vnjvibhash/Vnjvibhash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
