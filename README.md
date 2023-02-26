@@ -6,7 +6,7 @@
 - 🤳🏻 How to reach me via WA https://wa.me/917986635348
 
 <img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api?username=Vnjvibhash&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
-<img width="50%" src = "https://github-readme-streak-stats.herokuapp.com/?user=Vnjvibhash&theme=radical&hide_border=false"/>
+<img width="49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=Vnjvibhash&theme=radical&hide_border=false"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vnjvibhash&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 
