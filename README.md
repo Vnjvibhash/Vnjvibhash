@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vnjvibhash
-- 👀 I’m interested in this project
+- 👀 I’m interested in Open Source Project
 - 🌱 I’m currently learning the Android and well as backend development
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me via mail vnjvibhash@gmail.com
