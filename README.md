@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://github.com/Vnjvibhash/Vnjvibhash/blob/main/coder.gif?raw=true" width="500" height="320" />
+
 - 👋 Hi, I’m @Vnjvibhash
 - 👀 I’m interested in Open Source Project
 - 🌱 I’m currently learning the Android and well as backend development
