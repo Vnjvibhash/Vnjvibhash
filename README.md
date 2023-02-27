@@ -1,9 +1,15 @@
-<img align="right" alt="GIF" src="https://github.com/Vnjvibhash/Vnjvibhash/blob/main/coder.gif?raw=true" width="500" height="320" />
+### Hello World, I'm Vivek  👋
 
-- 👋 Hi, I’m @Vnjvibhash
-- 👀 I’m interested in Open Source Project
-- 🌱 I’m currently learning the Android and well as backend development
-- 💞️ I’m looking to collaborate on github
+<img align="right" alt="GIF" src="https://github.com/Vnjvibhash/Vnjvibhash/blob/main/coder.gif?raw=true" width="500" height="220" />
+
+## I'm a Developer & Coder!!
+- ✍ You can find my projects here [portfolio]
+- 🔭 I’m currently working on my Soft Skills.
+- 🌱 I’m currently learning React And React Native
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I speak 4 languages ( Hindi, English, Maithili, Kannada)
 - 📫 How to reach me via mail vnjvibhash@gmail.com
 
 <img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api?username=Vnjvibhash&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
