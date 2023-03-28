@@ -12,6 +12,7 @@
 - ⚡ Fun fact: I speak 4 languages ( Hindi, English, Maithili, Kannada)
 - 📫 How to reach me via mail vnjvibhash@gmail.com
 
+## 📊 GitHub Stats:
 <img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api?username=Vnjvibhash&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
 <img width="49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=Vnjvibhash&theme=radical&hide_border=false"/>
 <img width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vnjvibhash&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
@@ -24,17 +25,12 @@
 <a href="https://www.youtube.com/@innovateria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Vnjvibhash" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Vivekajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vivekajee" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/vivekajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Vivekajee" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14659821/vivekajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Vivekajee" height="30" width="40" /></a>
 <a href="https://leetcode.com/VivekaJee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vivekajee" height="30" width="40" /></a>
-
-
 </p>
-
 
 ---
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vnjvibhash" alt="Vnjvibhash" /> -->
 <img src = "https://visitcount.itsvg.in/api?id=Vnjvibhash&label=Visitors&pretty=true"/>
-<!-- [![](https://visitcount.itsvg.in/api?id=Vnjvibhash&label=Visitors&pretty=true)](https://visitcount.itsvg.in) -->
 <!---
 Vnjvibhash/Vnjvibhash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
