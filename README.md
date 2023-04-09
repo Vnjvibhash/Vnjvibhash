@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/Vnjvibhash/Vnjvibhash/blob/main/coder.gif?raw=true" width="400" height="220" />
 
 ## I'm a Developer & Coder!!
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects here <a href="https://vivekajee.netlify.app/" target="blank">[portfolio]</a>
 - 🔭 I’m currently working on my Soft Skills.
 - 🌱 I’m currently learning React And React Native
 - 👯 I’m looking to collaborate on open source
