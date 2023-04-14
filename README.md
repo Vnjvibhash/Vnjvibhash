@@ -1,4 +1,4 @@
-### Hello Everyone, I'm Vivek  👋
+### Hello Everyone, My name is Vivek  👋
 
 <img align="right" alt="GIF" src="https://github.com/Vnjvibhash/Vnjvibhash/blob/main/coder.gif?raw=true" width="400" height="220" />
 
