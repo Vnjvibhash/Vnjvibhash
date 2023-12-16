@@ -64,6 +64,12 @@
 <a href="https://leetcode.com/VivekaJee/" rel="noreferrer noopener" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vivekajee" height="30" width="40" /></a>
 </p>
 
+###
+
+<img src="https://raw.githubusercontent.com/Vnjvibhash/Vnjvibhash/output/snake.svg" alt="Snake animation" />
+
+###
+
 ---
 <div align="center">
 
