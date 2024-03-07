@@ -1,6 +1,6 @@
 ### Hello Everyone, My name is Vivek  👋
 
-<img align="right" alt="GIF" src="https://github.com/Vnjvibhash/Vnjvibhash/blob/main/coding.gif?raw=true" width="400" height="318"/>
+<img align="right" alt="GIF" src="https://github.com/Vnjvibhash/Vnjvibhash/blob/main/coding.gif?raw=true" width="500" height="318"/>
 
 ## I'm a Developer & Coder!!
 - ✍ You can find my projects here <a href="http://vivekajee.in/" rel="noreferrer noopener" target="_blank">[portfolio]</a>
