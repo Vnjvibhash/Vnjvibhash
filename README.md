@@ -12,6 +12,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I speak 4 languages ( Hindi, English, Maithili, Kannada)
 - 📫 How to reach me via mail vnjvibhash@gmail.com
+- <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivekajee" target="_blank">Follow on LinkedIn</a>
 
 # 💻 Tech Stack:
 <p align="left"> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/> </a>
