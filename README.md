@@ -52,7 +52,7 @@
 <img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api?username=Vnjvibhash&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
 <img width="49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=Vnjvibhash&theme=radical&hide_border=false"/>
 <img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vnjvibhash&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-<img width="49%" src = "https://github-contributor-stats.vercel.app/api?username=Vnjvibhash&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+<img width="49%" src = "https://github-contributor-stats.vercel.app/api?username=Vnjvibhash&limit=4&theme=radical&combine_all_yearly_contributions=true"/>
 
 <p align="right">
 <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivekajee" rel="noreferrer noopener" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vnjvibhash" height="30" width="40" /></a>
