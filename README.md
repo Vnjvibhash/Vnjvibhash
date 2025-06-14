@@ -50,11 +50,11 @@
 
 ## 📊 GitHub Stats:
 <img  width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vnjvibhash&theme=tokyonight" alt="Profile Summary" />
-<img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api?username=Vnjvibhash&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
+<img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=Vnjvibhash&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
 <img width="49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=Vnjvibhash&theme=radical&hide_border=false"/>
-<img  align="left" width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vnjvibhash&theme=tokyonight" alt="Productive Time" />
+<img  align="left" width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vnjvibhash&theme=tokyonight" alt="Productive Time" />
 <img  width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vnjvibhash&theme=tokyonight" alt="Repos per Language" />
-<img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vnjvibhash&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vnjvibhash&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 <img width="49%" src = "https://github-contributor-stats.vercel.app/api?username=Vnjvibhash&limit=4&theme=radical&combine_all_yearly_contributions=true"/>
 
 <p align="right">
