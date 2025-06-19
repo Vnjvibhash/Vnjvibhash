@@ -6,6 +6,7 @@ I'm **Vivek Kumar**, a passionate Mobile App Developer with expertise in Android
 </div>
 
 <img align="right" alt="GIF" src="https://github.com/Vnjvibhash/Vnjvibhash/blob/main/coding.gif?raw=true" width="400" height="300"/>
+
 ## 🌟 Highlights
 - ✍ **Portfolio**: Explore my projects at <a href="http://vivekajee.in/" rel="noreferrer noopener" target="_blank">Vivekajee.in</a>
 - 📱 **Mobile Apps**: Check out my apps on <a href="https://play.google.com/store/apps/dev?id=7465684407391262508" rel="noreferrer noopener" target="_blank">PlayStore</a>
