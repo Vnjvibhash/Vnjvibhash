@@ -8,19 +8,21 @@ I'm **Vivek Kumar**, a passionate Mobile App Developer with expertise in Android
 <img align="right" alt="GIF" src="https://github.com/Vnjvibhash/Vnjvibhash/blob/main/coding.gif?raw=true" width="400" height="300"/>
 
 ## 🌟 Highlights
-- ✍ **Portfolio**: Explore my projects at <a href="http://vivekajee.in/" rel="noreferrer noopener" target="_blank">Vivekajee.in</a>
-- 📱 **Mobile Apps**: Check out my apps on <a href="https://play.google.com/store/apps/dev?id=7465684407391262508" rel="noreferrer noopener" target="_blank">PlayStore</a>
-- 🔭 **Current Focus**: Advancing my expertise in Django
-- 🌱 **Collaboration**: Open to contributing to open-source projects
-- 💬 **Language**: Fluent in Hindi, English, Maithili, and Kannada
-- 📧 **Email**: vnjvibhash@gmail.com
-- 📁 **LinkedIn**: <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivekajee" target="_blank">Follow on LinkedIn</a>
+- ✍ **Portfolio**: Explore my projects at [vivekajee.in](http://vivekajee.in/)
+- 📱 **Mobile Apps**: Check out my apps on [Google Play Store](https://play.google.com/store/apps/dev?id=7465684407391262508)
+- 🔭 **Current Focus**: Advancing my expertise in Django and React Native
+- 🌱 **Collaboration**: Actively seeking open-source projects to contribute to
+- 💻 **Skills**: Proficient in Java, Laravel, MongoDB, MySQL, and RESTful APIs
+- 📝 **Blog**: Sharing tech insights on Job & development at [innovateria.in](http://www.innovateria.in/)
+- 💬 **Languages**: Fluent in Hindi, English, and Maithili
+- 📧 **Email**: [vnjvibhash@gmail.com](mailto:vnjvibhash@gmail.com)
+- 📁 **LinkedIn**: [Follow on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivekajee)
 ## 🏆 Achievements
 - 1st Runner-Up, Rajasthan IT Day Hackathon (March 2023): Led team "101 Found" to develop an Android app for financial inclusion and economic empowerment, securing a 20-lakh work order from the Government of Rajasthan.
 - Top 5, E-Suraksha Cybersecurity Hackathon (November 2023): Solved AI-powered data breach response using sandboxing, organized by Chandigarh University.
 - Academic Excellence Award (May 2023): Received a Gold Medal for outstanding performance in the 2022-23 academic year at Chandigarh University.
 ## 🎉 Fun Fact
-I built an award-winning Android app fueled by chai and code, connecting startups to investors at the Rajasthan IT Hackathon! ☕💻
+*I built an award-winning Android app fueled by chai and code, connecting startups to investors at the Rajasthan IT Hackathon! ☕💻*
 
 # 💻 Tech Stack:
 <p align="center">
