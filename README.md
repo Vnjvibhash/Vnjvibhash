@@ -12,7 +12,7 @@ I'm **Vivek Kumar**, a passionate Mobile App Developer with expertise in Android
 - 📱 **Mobile Apps**: Check out my apps on [Google Play Store](https://play.google.com/store/apps/dev?id=7465684407391262508)
 - 🔭 **Current Focus**: Advancing my expertise in Django
 - 🌱 **Collaboration**: Actively seeking open-source projects
-- 📝 **Blog**: Sharing tech insights on Job & development at [innovateria.in](http://www.innovateria.in/)
+- 📝 **Blog**: Sharing tech insights on Job & skill at [innovateria.in](http://www.innovateria.in/)
 - 💬 **Languages**: Fluent in Hindi, English, and Maithili
 - 📧 **Email**: [vnjvibhash@gmail.com](mailto:vnjvibhash@gmail.com)
 - 📁 **LinkedIn**: [Follow on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivekajee)
