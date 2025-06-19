@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hello Everyone, I'm a Developer & Coder!!
-I'm **Vivek Kumar**, a passionate Mobile App Developer with expertise in Android, Java, and Laravel. I specialize in building innovative solutions, from award-winning hackathon projects to scalable mobile applications. Currently, I'm enhancing my skill set with DJango and focusing on delivering impactful tech solutions.
+I'm **Vivek Kumar**, a passionate Mobile App Developer with expertise in Android, Java, Laravel, MongoDB, MySQL, and RESTful APIs. I specialize in building innovative solutions, from award-winning hackathon projects to scalable mobile applications. Currently, I'm enhancing my skill set with DJango and focusing on delivering impactful tech solutions.
 
 </div>
 
@@ -10,9 +10,8 @@ I'm **Vivek Kumar**, a passionate Mobile App Developer with expertise in Android
 ## 🌟 Highlights
 - ✍ **Portfolio**: Explore my projects at [vivekajee.in](http://vivekajee.in/)
 - 📱 **Mobile Apps**: Check out my apps on [Google Play Store](https://play.google.com/store/apps/dev?id=7465684407391262508)
-- 🔭 **Current Focus**: Advancing my expertise in Django and React Native
-- 🌱 **Collaboration**: Actively seeking open-source projects to contribute to
-- 💻 **Skills**: Proficient in Java, Laravel, MongoDB, MySQL, and RESTful APIs
+- 🔭 **Current Focus**: Advancing my expertise in Django
+- 🌱 **Collaboration**: Actively seeking open-source projects
 - 📝 **Blog**: Sharing tech insights on Job & development at [innovateria.in](http://www.innovateria.in/)
 - 💬 **Languages**: Fluent in Hindi, English, and Maithili
 - 📧 **Email**: [vnjvibhash@gmail.com](mailto:vnjvibhash@gmail.com)
