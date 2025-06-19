@@ -21,7 +21,7 @@ I'm **Vivek Kumar**, a passionate Mobile App Developer with expertise in Android
 - Top 5, E-Suraksha Cybersecurity Hackathon (November 2023): Solved AI-powered data breach response using sandboxing, organized by Chandigarh University.
 - Academic Excellence Award (May 2023): Received a Gold Medal for outstanding performance in the 2022-23 academic year at Chandigarh University.
 ## 🎉 Fun Fact
-*I built an award-winning Android app fueled by chai and code, connecting startups to investors at the Rajasthan IT Hackathon! ☕💻*
+*During the Rajasthan IT Hackathon in 2023, I led team "101 Found" to build "Unnati," an Android app that bridged startups and investors, clinching 1st Runner-Up and a 20-lakh work order from the Rajasthan government—all while running on endless cups of chai and late-night debugging sessions. Fun twist: I celebrated by coding a mini-app to track my chai intake, proving my love for both tech and tea! ☕💻*
 
 # 💻 Tech Stack:
 <p align="center">
