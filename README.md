@@ -1,18 +1,25 @@
-### Hello Everyone, My name is Vivek  👋
+<div align="center">
+  
+# Hello Everyone, I'm a Developer & Coder!!
+I'm **Vivek Kumar**, a passionate Mobile App Developer with expertise in Android, Java, and Laravel. I specialize in building innovative solutions, from award-winning hackathon projects to scalable mobile applications. Currently, I'm enhancing my skill set with DJango and focusing on delivering impactful tech solutions.
 
-<img align="right" alt="GIF" src="https://github.com/Vnjvibhash/Vnjvibhash/blob/main/coding.gif?raw=true" width="500" height="400"/>
+</div>
 
-## I'm a Developer & Coder!!
-- ✍ You can find my projects here <a href="http://vivekajee.in/" rel="noreferrer noopener" target="_blank">Vivekajee.in</a>
-- 📱 You can find my Mobile Apps here <a href="https://play.google.com/store/apps/dev?id=7465684407391262508" rel="noreferrer noopener" target="_blank">PlayStore</a>
-- 🔭 I’m currently working on my Soft Skills.
-- 🌱 I’m currently learning React And React Native
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I speak 4 languages ( Hindi, English, Maithili, Kannada)
-- 📫 How to reach me via mail vnjvibhash@gmail.com
-- <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivekajee" target="_blank">Follow on LinkedIn</a>
+<img align="right" alt="GIF" src="https://github.com/Vnjvibhash/Vnjvibhash/blob/main/coding.gif?raw=true" width="400" height="300"/>
+## 🌟 Highlights
+- ✍ **Portfolio**: Explore my projects at <a href="http://vivekajee.in/" rel="noreferrer noopener" target="_blank">Vivekajee.in</a>
+- 📱 **Mobile Apps**: Check out my apps on <a href="https://play.google.com/store/apps/dev?id=7465684407391262508" rel="noreferrer noopener" target="_blank">PlayStore</a>
+- 🔭 **Current Focus**: Advancing my expertise in Django
+- 🌱 **Collaboration**: Open to contributing to open-source projects
+- 💬 **Language**: Fluent in Hindi, English, Maithili, and Kannada
+- 📧 **Email**: vnjvibhash@gmail.com
+- 📁 **LinkedIn**: <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivekajee" target="_blank">Follow on LinkedIn</a>
+## 🏆 Achievements
+- 1st Runner-Up, Rajasthan IT Day Hackathon (March 2023): Led team "101 Found" to develop an Android app for financial inclusion and economic empowerment, securing a 20-lakh work order from the Government of Rajasthan.
+- Top 5, E-Suraksha Cybersecurity Hackathon (November 2023): Solved AI-powered data breach response using sandboxing, organized by Chandigarh University.
+- Academic Excellence Award (May 2023): Received a Gold Medal for outstanding performance in the 2022-23 academic year at Chandigarh University.
+## 🎉 Fun Fact
+I built an award-winning Android app fueled by chai and code, connecting startups to investors at the Rajasthan IT Hackathon! ☕💻
 
 # 💻 Tech Stack:
 <p align="center">
