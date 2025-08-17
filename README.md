@@ -83,9 +83,6 @@ I'm **Vivek Kumar**, a passionate Mobile App Developer with expertise in Android
 <div align="center">
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/Vnjvibhash/Vnjvibhash/blob/main/marquee.svg" />
-<br />
-
-![Visitor Count](https://profile-counter.glitch.me/Vnjvibhash/count.svg)
 
 </div>
 
