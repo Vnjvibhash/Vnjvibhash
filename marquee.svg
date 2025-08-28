@@ -1,9 +1,9 @@
-<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
+<svg fill="none" viewBox="0 0 800 60" width="800" height="60" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
         .marquee {
-          height: 50px;	
+          height: 60px;	
           overflow: hidden;
           position: relative;
         }
@@ -11,30 +11,25 @@
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
           color: #FF5C8D;
           position: absolute;
-          font-size: 1.2em;
+          font-size: 1.6em; /* 👈 Bigger font */
           width: 100%;
           height: 100%;
           margin: 0;
-          line-height: 50px;
+          line-height: 60px;
           text-align: center;
 
-          transform:translateX(100%);
-
-          animation: marquee 7s linear infinite;
+          transform: translateX(100%);
+          animation: marquee 14s linear infinite; /* 👈 slower + smoother */
         }
 
         @keyframes marquee {
-          0%   { 
-            transform: translateX(100%); 		
-          }
-          100% { 
-            transform: translateX(-80%); 
-          }
+          0%   { transform: translateX(100%); }
+          100% { transform: translateX(-100%); }
         }
       </style>
       <div class="marquee">
-        <strong>Thanks for visiting my profile, see you next time!</strong>
+        <strong>✨ Hey there! You’re exploring Vivek’s GitHub! 🚀 Here you’ll find projects on Flutter, Android, React, Node.js & more. 👉 Explore, Star ⭐, and Collaborate at github.com/Vnjvibhash — 🙌 Thanks for the visit! ✨</strong>
       </div>
-		</div>
-	</foreignObject>
+    </div>
+  </foreignObject>
 </svg>
