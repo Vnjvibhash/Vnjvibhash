@@ -1,7 +1,7 @@
 <svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
         .marquee {
           height: 50px;	
           overflow: hidden;
@@ -18,20 +18,23 @@
           line-height: 50px;
           text-align: center;
 
-          transform: translateX(100%);
+          transform:translateX(100%);
 
-          animation: marquee 12s linear infinite; /* 👈 slowed down */
+          animation: marquee 7s linear infinite;
         }
 
         @keyframes marquee {
-          0%   { transform: translateX(100%); }
-          100% { transform: translateX(-80%); }
+          0%   { 
+            transform: translateX(100%); 		
+          }
+          100% { 
+            transform: translateX(-80%); 
+          }
         }
       </style>
       <div class="marquee">
-        <strong>✨ Hey there! You’re exploring Vivek’s GitHub! 🚀 Here you’ll find projects on Flutter, Android, React, Node.js & more. 👉 Explore, Star ⭐, and Collaborate at github.com/Vnjvibhash — 🙌 Thanks for the visit! ✨</strong>
+        <strong>Thanks for visiting my profile, see you next time!</strong>
       </div>
-    </div>
-  </foreignObject>
+		</div>
+	</foreignObject>
 </svg>
-
