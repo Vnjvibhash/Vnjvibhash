@@ -1,9 +1,9 @@
-<svg fill="none" viewBox="0 0 800 60" width="800" height="60" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .marquee {
-          height: 60px;	
+          height: 50px;	
           overflow: hidden;
           position: relative;
         }
@@ -11,20 +11,21 @@
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
           color: #FF5C8D;
           position: absolute;
-          font-size: 1.6em; /* 👈 Bigger font */
+          font-size: 1.2em;
           width: 100%;
           height: 100%;
           margin: 0;
-          line-height: 60px;
+          line-height: 50px;
           text-align: center;
 
           transform: translateX(100%);
-          animation: marquee 14s linear infinite; /* 👈 slower + smoother */
+
+          animation: marquee 12s linear infinite; /* 👈 slowed down */
         }
 
         @keyframes marquee {
           0%   { transform: translateX(100%); }
-          100% { transform: translateX(-100%); }
+          100% { transform: translateX(-80%); }
         }
       </style>
       <div class="marquee">
@@ -33,3 +34,4 @@
     </div>
   </foreignObject>
 </svg>
+
