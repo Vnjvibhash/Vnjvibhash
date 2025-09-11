@@ -1,7 +1,9 @@
 <div align="center">
   
 # Hello Everyone, I'm a Developer & Coder!!
-I'm **Vivek Kumar**, a passionate Mobile App Developer with expertise in Android, Java, Laravel, MongoDB, MySQL, and RESTful APIs. I specialize in building innovative solutions, from award-winning hackathon projects to scalable mobile applications. Currently, I'm enhancing my skill set with DJango and focusing on delivering impactful tech solutions.
+My name is **Vivek**, A passionate Mobile App Developer with expertise in Android, Java, Laravel, MongoDB, MySQL, and RESTful APIs. I thrive on building innovative, scalable solutions — from award-winning hackathon projects to production-ready mobile applications.
+
+🌱 Currently expanding my skill set with Django, while continuing to craft impactful tech solutions that merge creativity with performance.
 
 </div>
 
