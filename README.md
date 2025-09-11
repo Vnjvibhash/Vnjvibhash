@@ -15,6 +15,7 @@ I'm **Vivek Kumar**, a passionate Mobile App Developer with expertise in Android
 - 📝 **Blog**: Sharing tech insights on Job & skill at [innovateria.in](http://www.innovateria.in/)
 - 💬 **Languages**: Fluent in Hindi, English, and Maithili
 - 📧 **Email**: [vnjvibhash@gmail.com](mailto:vnjvibhash@gmail.com)
+- 📧 **Work Email**: [innovateria.in@gmail.com](mailto:innovateria.in@gmail.com)
 - 📁 **LinkedIn**: [Follow on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivekajee)
 ## 🏆 Achievements
 - 1st Runner-Up, Rajasthan IT Day Hackathon (March 2023): Led team "101 Found" to develop an Android app for financial inclusion and economic empowerment, securing a 20-lakh work order from the Government of Rajasthan.
