@@ -3,7 +3,9 @@
 # Hello Everyone, I'm a Developer & Coder!!
 My name is **Vivek**, A passionate Mobile App Developer with expertise in Android, Java, Laravel, MongoDB, MySQL, and RESTful APIs. I thrive on building innovative, scalable solutions — from award-winning hackathon projects to production-ready mobile applications.
 
-🌱 Currently expanding my skill set with Django, while continuing to craft impactful tech solutions that merge creativity with performance.
+🌱
+
+Currently expanding my skill set with Django, while continuing to craft impactful tech solutions that merge creativity with performance.
 
 </div>
 
