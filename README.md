@@ -20,7 +20,7 @@ Currently expanding my skill set with Django, while continuing to craft impactfu
 - 💬 **Languages**: Fluent in Hindi, English, and Maithili
 - 📧 **Email**: [vnjvibhash@gmail.com](mailto:vnjvibhash@gmail.com)
 - 📧 **Work Email**: [innovateria.in@gmail.com](mailto:innovateria.in@gmail.com)
-- 📁 **LinkedIn**: [Follow on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivekajee)
+- 📁 **Follow me on LinkedIn**: [Follow on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivekajee)
 ## 🏆 Achievements
 - 1st Runner-Up, Rajasthan IT Day Hackathon (March 2023): Led team "101 Found" to develop an Android app for financial inclusion and economic empowerment, securing a 20-lakh work order from the Government of Rajasthan.
 - Top 5, E-Suraksha Cybersecurity Hackathon (November 2023): Solved AI-powered data breach response using sandboxing, organized by Chandigarh University.
