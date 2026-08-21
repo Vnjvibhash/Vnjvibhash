@@ -12,7 +12,7 @@ Currently expanding my skill set with Django, while continuing to craft impactfu
 <img align="right" alt="GIF" src="https://github.com/Vnjvibhash/Vnjvibhash/blob/main/coding.gif?raw=true" width="400" height="300"/>
 
 ## 🌟 Highlights
-- ✍ **Portfolio**: Explore my projects at [vivekajee.in](http://vivekajee.in/)
+- ✍ **Portfolio**: Explore my projects at [vivekajee.com](http://vivekajee.com/)
 - 📱 **Mobile Apps**: Check out my apps on [Google Play Store](https://play.google.com/store/apps/dev?id=7465684407391262508)
 - 🔭 **Current Focus**: Advancing my expertise in Django
 - 🌱 **Collaboration**: Actively seeking open-source projects
