@@ -64,13 +64,13 @@ Currently expanding my skill set with Django, while continuing to craft impactfu
 </p>
 
 ## 📊 GitHub Stats:
-<img  width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vnjvibhash&theme=radical" alt="Profile Summary" />
-<img align="left" width="48%" src = "https://github-readme-stats.vercel.app/api?username=Vnjvibhash&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
-<img width="49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=Vnjvibhash&theme=radical&hide_border=false"/>
-<img  align="left" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vnjvibhash&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-<img  width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vnjvibhash&theme=radical" alt="Repos per Language" />
-<img align="left" width="48%" src = "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vnjvibhash&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Productive Time" />
-<img width="49%" src = "https://github-contributor-stats.vercel.app/api?username=Vnjvibhash&limit=4&theme=radical&combine_all_yearly_contributions=true"/>
+[![Git Activity Card](https://git-activity-cards.vercel.app/api/cards/profile-details?username=Vnjvibhash&theme=radical)](https://github.com/Vnjvibhash)
+[![Git Activity Card](https://git-activity-cards.vercel.app/api/cards/repos-per-language?username=Vnjvibhash&theme=radical)](https://github.com/Vnjvibhash)
+[![Git Activity Card](https://git-activity-cards.vercel.app/api/cards/most-commit-language?username=Vnjvibhash&theme=radical)](https://github.com/Vnjvibhash)
+[![Git Activity Card](https://git-activity-cards.vercel.app/api/cards/top-langs?username=Vnjvibhash&theme=radical)](https://github.com/Vnjvibhash)
+[![Git Activity Card](https://git-activity-cards.vercel.app/api/cards/productive-time?username=Vnjvibhash&theme=radical)](https://github.com/Vnjvibhash)
+[![Git Activity Card](https://git-activity-cards.vercel.app/api/cards/commit-activity?username=Vnjvibhash&theme=radical)](https://github.com/Vnjvibhash)
+[![Git Activity Card](https://git-activity-cards.vercel.app/api/cards/contribution-graph?username=Vnjvibhash&theme=radical)](https://github.com/Vnjvibhash)
 
 <p align="right">
 <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivekajee" rel="noreferrer noopener" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vnjvibhash" height="30" width="40" /></a>
